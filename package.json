@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1637.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "serverless-babel-plugin": "^0.2.0"
+  },
+  "type": "module",
+  "overrides": {
+    "graceful-fs": "^4.2.11"
+  }
+}
